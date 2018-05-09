@@ -25,7 +25,7 @@
     * [type](components/component-parameters/type.md)
     * [disabled](components/component-parameters/disabled.md)
     * [color](components/component-parameters/color.md)
-  * [Component Parameters \(Functional\)](components/component-parameters-functional/README.md)
+  * [Component Parameters \(Flags\)](components/component-parameters-functional/README.md)
     * [data](components/component-parameters-functional/data.md)
     * isEditable
     * isLoading

@@ -4,7 +4,7 @@ description: >-
   functional input and output for the component.
 ---
 
-# Component Parameters \(Functional\)
+# Component Parameters \(Flags\)
 
 ## Basic Naming Conventions
 
