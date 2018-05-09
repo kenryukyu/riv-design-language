@@ -8,7 +8,7 @@ description: Flags specify a varying state of a component.
 
 ## "is" prefix \(boolean\)
 
-"is" prefix parameters are boolean parameters that specify the being state of a component or its sub-components.
+"is" prefix parameters are boolean parameters that a state of a component or its sub-components.
 
 For example:
 
