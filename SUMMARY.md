@@ -18,7 +18,7 @@
     * [Widths](basic-variables/responsiveness-and-sizing-variables/widths.md)
     * [Heights](basic-variables/responsiveness-and-sizing-variables/heights.md)
 * [Components](components/README.md)
-  * [Component Parameters](components/component-parameters/README.md)
+  * [Component Parameters \(Visual\)](components/component-parameters/README.md)
     * [size](components/component-parameters/size.md)
     * [shape](components/component-parameters/shape.md)
     * [corners](components/component-parameters/corners.md)
@@ -51,4 +51,5 @@
     * [app-breadcrumb](components/components-names/app-breadcrumb.md)
     * [app-modal](components/components-names/app-modal.md)
     * [app-rating](components/components-names/app-rating.md)
+  * Component Parameters \(Functional\)
 

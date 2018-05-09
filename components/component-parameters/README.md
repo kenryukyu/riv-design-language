@@ -1,4 +1,4 @@
-# Component Parameters
+# Component Parameters \(Visual\)
 
 ## Variable Name: 
 
