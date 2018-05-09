@@ -10,8 +10,12 @@ description: >-
 
 Callback parameters should start with an "on" prefix.
 
+## &lt;action&gt; suffix
+
+Callback parameters should end with a descriptive action suffix.  For example, "clicked", "changed"
+
 ## Examples:
 
 * onLikeClicked
-* onSubmit
+* onAddButtonClicked
 
