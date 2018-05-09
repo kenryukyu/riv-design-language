@@ -1,10 +1,3 @@
----
-description: >-
-  These are team guidelines specifying responsibilities and steps.  Design team
-  and developer team should all use the same pre-defined language in this
-  guideline.
----
-
 # Team Guidelines
 
 ## Design Team

@@ -3,12 +3,12 @@
 ## Variable Names
 
 * **height-fluid**
-* height-mini
-* height-tiny
-* height-small
-* height-medium
-* height-large
-* height-big
-* height-huge
-* height-massive
+* height-2xs
+* height-xs
+* height-sm
+* height-md
+* height-lg
+* height-2xl
+* height-3xl
+* height-4xl
 
