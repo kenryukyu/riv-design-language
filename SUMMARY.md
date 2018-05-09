@@ -25,12 +25,12 @@
     * [type](components/component-parameters/type.md)
     * [disabled](components/component-parameters/disabled.md)
     * [color](components/component-parameters/color.md)
-  * Component Parameters \(data\)
+  * Component Parameters \(Data\)
     * [data](components/component-parameters-data/data.md)
   * [Component Parameters \(Flags\)](components/component-parameters-functional/README.md)
     * isEditable
     * isLoading
-    * Component Parameters \(callbacks\)
+  * [Component Parameters \(Callbacks\)](components/untitled-1.md)
   * [Components Names](components/components-names/README.md)
     * [app-button](components/components-names/ri-button.md)
     * [app-card](components/components-names/ri-card.md)
