@@ -25,7 +25,7 @@
     * [type](components/component-parameters/type.md)
     * [disabled](components/component-parameters/disabled.md)
     * [color](components/component-parameters/color.md)
-  * Components Names
+  * [Components Names](components/components-names/README.md)
     * [app-button](components/components-names/ri-button.md)
     * [app-card](components/components-names/ri-card.md)
     * [app-divider](components/components-names/app-divider.md)
