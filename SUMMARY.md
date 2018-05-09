@@ -28,9 +28,7 @@
       * [color](components/component-parameters-1/component-parameters/color.md)
     * Data Parameters
       * [data](components/component-parameters-1/component-parameters-data/data.md)
-    * [Flag Parameters](components/component-parameters-1/component-parameters-functional/README.md)
-      * isEditable
-      * isLoading
+    * [Flag Parameters](components/component-parameters-1/component-parameters-functional.md)
     * [Callback Parameters](components/component-parameters-1/untitled-1.md)
   * [Components Names](components/components-names/README.md)
     * [app-button](components/components-names/ri-button.md)
