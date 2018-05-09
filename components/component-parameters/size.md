@@ -19,7 +19,7 @@ size
 
 * size="medium"
 * size="large"
-* size="huge"
+* size="x-large"
 
 
 
