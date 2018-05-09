@@ -26,6 +26,7 @@
     * [disabled](components/component-parameters/disabled.md)
     * [color](components/component-parameters/color.md)
   * Component Parameters \(Functional\)
+    * [data](components/component-parameters-functional/data.md)
   * [Components Names](components/components-names/README.md)
     * [app-button](components/components-names/ri-button.md)
     * [app-card](components/components-names/ri-card.md)
