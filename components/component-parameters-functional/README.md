@@ -25,7 +25,9 @@ For example:
 * hasFooter
 * hasLikeButton
 
+## "on" prefix \(function\)
 
+"on" prefix provides a callback function or emits an output to signal calling a callback function.
 
 
 
