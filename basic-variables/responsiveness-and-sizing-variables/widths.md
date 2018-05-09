@@ -2,15 +2,15 @@
 
 ## Widths for Components:
 
-* **width-fluid**
-* width-col1
-* width-col3
-* width-col4
+* **width-fluid \(100%\)**
+* width-col1 \(100%\)
+* width-col3 \(33%\)
+* width-col4 \(25%\)
 * width-col&lt;N&gt;...
-* width-2xs
+* width-2xs 
 * width-xs
 * width-sm
-* width-md
+* **width-md \(fix width medium size\)**
 * width-lg
 * width-xl
 * width-2xl
