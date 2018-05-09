@@ -2,7 +2,7 @@
 description: Flags specify a varying state of a component.
 ---
 
-# Component Parameters \(Flags\)
+# Flag Parameters
 
 ## Basic Naming Conventions
 

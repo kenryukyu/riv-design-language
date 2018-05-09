@@ -4,7 +4,7 @@ description: >-
   function.
 ---
 
-# Component Parameters \(Callbacks\)
+# Callback Parameters
 
 ## "on" prefix
 

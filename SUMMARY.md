@@ -18,19 +18,20 @@
     * [Widths](basic-variables/responsiveness-and-sizing-variables/widths.md)
     * [Heights](basic-variables/responsiveness-and-sizing-variables/heights.md)
 * [Components](components/README.md)
-  * Component Parameters \(Visual\)
-    * [size](components/component-parameters/size.md)
-    * [shape](components/component-parameters/shape.md)
-    * [corners](components/component-parameters/corners.md)
-    * [type](components/component-parameters/type.md)
-    * [disabled](components/component-parameters/disabled.md)
-    * [color](components/component-parameters/color.md)
-  * Component Parameters \(Data\)
-    * [data](components/component-parameters-data/data.md)
-  * [Component Parameters \(Flags\)](components/component-parameters-functional/README.md)
-    * isEditable
-    * isLoading
-  * [Component Parameters \(Callbacks\)](components/untitled-1.md)
+  * Component Parameters
+    * Visual Parameters
+      * [size](components/component-parameters-1/component-parameters/size.md)
+      * [shape](components/component-parameters-1/component-parameters/shape.md)
+      * [corners](components/component-parameters-1/component-parameters/corners.md)
+      * [type](components/component-parameters-1/component-parameters/type.md)
+      * [disabled](components/component-parameters-1/component-parameters/disabled.md)
+      * [color](components/component-parameters-1/component-parameters/color.md)
+    * Data Parameters
+      * [data](components/component-parameters-1/component-parameters-data/data.md)
+    * [Flag Parameters](components/component-parameters-1/component-parameters-functional/README.md)
+      * isEditable
+      * isLoading
+    * [Callback Parameters](components/component-parameters-1/untitled-1.md)
   * [Components Names](components/components-names/README.md)
     * [app-button](components/components-names/ri-button.md)
     * [app-card](components/components-names/ri-card.md)

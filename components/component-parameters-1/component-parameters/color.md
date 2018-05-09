@@ -15,7 +15,7 @@ color
 
 Use color variable names defined in color variables.
 
-{% page-ref page="../../basic-variables/color-variables.md" %}
+{% page-ref page="../../../basic-variables/color-variables.md" %}
 
 ## Example Settings
 
