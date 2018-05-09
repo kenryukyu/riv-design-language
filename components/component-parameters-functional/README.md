@@ -1,7 +1,5 @@
 ---
-description: >-
-  Functional parameters are specified by developers.  They provide data and
-  functional input and output for the component.
+description: Flags specify a varying state of a component.
 ---
 
 # Component Parameters \(Flags\)
@@ -10,11 +8,12 @@ description: >-
 
 ## "is" prefix \(boolean\)
 
-"is" prefix parameters are boolean parameters that specify the state of a component.
+"is" prefix parameters are boolean parameters that specify the being state of a component or its sub-components.
 
 For example:
 
 * isLoading
+* isSubmitting
 
 ## "has" prefix \(boolean\)
 
