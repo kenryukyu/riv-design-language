@@ -56,4 +56,5 @@
     * [app-breadcrumb](components/components-names/app-breadcrumb.md)
     * [app-modal](components/components-names/app-modal.md)
     * [app-rating](components/components-names/app-rating.md)
+    * app-comment
 
