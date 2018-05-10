@@ -58,4 +58,5 @@
     * [app-rating](components/components-names/app-rating.md)
     * app-comment
     * app-navigation
+    * app-tabs
 
