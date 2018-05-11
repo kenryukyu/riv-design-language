@@ -2,9 +2,11 @@
 
 ## Accepted Parameters
 
-* size
-* shape
-* corners
+* appType
+* appSize
+* appShape
+* appIsLoadin
+* appCorners
 
 ## Size Examples
 
@@ -20,16 +22,6 @@
 ```
 
 ![](../../.gitbook/assets/screen-shot-2018-05-07-at-10.49.57-am.png)
-
-## Shape Examples
-
-```text
-<app-button shape="circle" size="small" color="blue-8"><app-icon type="facebook"></app-icon></app-button>
-```
-
-![](../../.gitbook/assets/screen-shot-2018-05-07-at-11.46.38-am.png)
-
-
 
 
 
