@@ -32,6 +32,7 @@
     * [Callback Parameters](components/component-parameters-1/untitled-1.md)
   * [Components Names](components/components-names/README.md)
     * [app-button](components/components-names/ri-button.md)
+    * app-button-icon
     * [app-card](components/components-names/ri-card.md)
     * [app-divider](components/components-names/app-divider.md)
     * [app-image](components/components-names/ri-image.md)
